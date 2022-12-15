@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 void positive of negative(int 1);
-
+int largest_number(int a, int b, int c);
 
 
 
